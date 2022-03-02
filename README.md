@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **anushadas7@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1IY__jzI4lG41Rs5i7y1UdMzwWONAl3-K/view?usp=sharing](https://drive.google.com/file/d/1IY__jzI4lG41Rs5i7y1UdMzwWONAl3-K/view?usp=sharing)
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1IY__jzI4lG41Rs5i7y1UdMzwWONAl3-K/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
