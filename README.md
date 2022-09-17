@@ -1,9 +1,9 @@
 <h1 align="center">👋Hi, I'm Anusha Das</h1>
 <h3 align="center">A passionate data scientist from Boston, MA</h3>
 
-- 🔭 I’m currently working on **Speech Emotion Recognition**
+- 🔭 I’m currently working on **A/B Testing**
 
-- 🌱 I’m currently learning **Neural Networks**
+- 🌱 I’m currently learning **Causal Inference**
 
 - 💬 Ask me about **Statistics and Data Science**
 
