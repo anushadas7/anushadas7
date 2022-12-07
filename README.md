@@ -22,7 +22,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anushadas7&show_icons=true&locale=en&layout=compact" alt="anushadas7" /></p>
 </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anushadas7&show_icons=true&locale=en" alt="anushadas7" /></p>
-</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anushadas7&" alt="anushadas7" /></p>
