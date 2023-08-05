@@ -1,5 +1,5 @@
 <h1 align="center">👋Hi, I'm Anusha Das</h1>
-<h3 align="center">A passionate data engineer from Boston, MA</h3>
+<h3 align="center">A passionate Data Engineer from Boston, MA</h3>
 
 - 🕸 Checkout my website [anushadas.com](https://www.anushadas.com)
 
