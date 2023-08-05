@@ -1,6 +1,6 @@
 <h1 align="center">👋Hi, I'm Anusha Das</h1>
-<h3 align="center">A passionate data scientist from Boston, MA</h3>
-
+<h3 align="center">A passionate data engineer from Boston, MA</h3>
+- 🕸 Checkout my website [anushadas.com](https://www.anushadas.com)
 - 🌱 I’m currently learning **Hadoop and Spark**
 
 - 💬 Ask me about **Statistics and Data Science**
