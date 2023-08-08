@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Hadoop and Spark**
 
-- 💬 Ask me about **Statistics and Data Science**
+- 💬 Ask me about **Data Science & Data Engineering**
 
 - 📫 How to reach me **das4anusha@gmail.com**
 
-- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/133_242W4HwoKdyixotpa8Qjjq5qejutn/view)
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1VU5Tj5rmPcsaFk0isoIvhaatf_JDkzRL/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
